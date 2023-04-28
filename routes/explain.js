@@ -75,6 +75,7 @@ const explainInDepth = async (input, language, explanation) => {
   });
   return response.body.generations[0].text;
 };
+
 const whitelist = ['https://codelinea.web.app'];
 const corsOptions = {
   origin: function (origin, callback) {
