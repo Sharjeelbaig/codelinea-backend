@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/245356f7-b401-4ef0-b144-4451e2f5c475/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/CodeLinea",
+    "appService.deploySubpath": "."
+}
