@@ -1,4 +1,4 @@
-const data = [
+const codeClasssification = [
   {
     text: "The quick brown fox jumps over the lazy dog.",
     label: "not code",
@@ -1641,4 +1641,4 @@ const data = [
 }
 ];
 
-module.exports = data;
+module.exports = codeClasssification;
